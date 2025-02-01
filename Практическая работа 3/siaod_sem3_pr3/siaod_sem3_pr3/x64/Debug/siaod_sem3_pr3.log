@@ -1,0 +1,8 @@
+﻿  BinHash.cpp
+C:\My_projects\siaod_sem3_pr3\siaod_sem3_pr3\BinHash.cpp(22,27): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  HashTable.cpp
+C:\My_projects\siaod_sem3_pr3\siaod_sem3_pr3\HashTable.cpp(87,12): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\My_projects\siaod_sem3_pr3\siaod_sem3_pr3\HashTable.cpp(111,12): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+  siaod_sem3_pr3.cpp
+  Создание кода...
+  siaod_sem3_pr3.vcxproj -> C:\My_projects\siaod_sem3_pr3\x64\Debug\siaod_sem3_pr3.exe

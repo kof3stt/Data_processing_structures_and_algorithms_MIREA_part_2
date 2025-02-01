@@ -1,0 +1,7 @@
+﻿  SplayTree.cpp
+  TreeFile.cpp
+C:\My_projects\siaod_sem3_pr5_part3\siaod_sem3_pr5_part3\TreeFile.cpp(24,27): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\My_projects\siaod_sem3_pr5_part3\siaod_sem3_pr5_part3\TreeFile.cpp(37,33): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+C:\My_projects\siaod_sem3_pr5_part3\siaod_sem3_pr5_part3\SplayTree.cpp(162): warning C4172: возвращение адреса локальной или временной переменной : res
+  siaod_sem3_pr5_part3.vcxproj -> C:\My_projects\siaod_sem3_pr5_part3\x64\Debug\siaod_sem3_pr5_part3.exe

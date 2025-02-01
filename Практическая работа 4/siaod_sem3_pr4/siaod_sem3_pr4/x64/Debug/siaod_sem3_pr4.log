@@ -1,0 +1,4 @@
+﻿  ExpressionTree.cpp
+C:\My_projects\siaod_sem3_pr4\siaod_sem3_pr4\ExpressionTree.cpp(172,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+CLANGTIDY : warning : argument unused during compilation: '/ZI' [clang-diagnostic-unused-command-line-argument]
+  siaod_sem3_pr4.vcxproj -> C:\My_projects\siaod_sem3_pr4\x64\Debug\siaod_sem3_pr4.exe

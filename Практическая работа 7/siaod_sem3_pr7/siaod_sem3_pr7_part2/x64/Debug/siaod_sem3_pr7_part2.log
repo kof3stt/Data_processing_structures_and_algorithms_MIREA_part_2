@@ -1,0 +1,5 @@
+﻿  siaod_sem3_pr7_part2.cpp
+C:\My_projects\siaod_sem3_pr7_part2\siaod_sem3_pr7_part2\siaod_sem3_pr7_part2.cpp(163,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\My_projects\siaod_sem3_pr7_part2\siaod_sem3_pr7_part2\siaod_sem3_pr7_part2.cpp(193,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\My_projects\siaod_sem3_pr7_part2\siaod_sem3_pr7_part2\siaod_sem3_pr7_part2.cpp(214,17): warning C4101: res: неиспользованная локальная переменная
+  siaod_sem3_pr7_part2.vcxproj -> C:\My_projects\siaod_sem3_pr7_part2\x64\Debug\siaod_sem3_pr7_part2.exe

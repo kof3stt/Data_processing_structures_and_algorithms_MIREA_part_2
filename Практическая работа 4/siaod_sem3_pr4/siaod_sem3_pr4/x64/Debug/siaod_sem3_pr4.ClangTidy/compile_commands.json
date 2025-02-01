@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "C:\\My_projects\\siaod_sem3_pr4\\siaod_sem3_pr4",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP   \"C:\\My_projects\\siaod_sem3_pr4\\siaod_sem3_pr4\\ExpressionTree.cpp\"",
+    "file": "C:\\My_projects\\siaod_sem3_pr4\\siaod_sem3_pr4\\ExpressionTree.cpp"
+  },
+  {
+    "directory": "C:\\My_projects\\siaod_sem3_pr4\\siaod_sem3_pr4",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP   \"C:\\My_projects\\siaod_sem3_pr4\\siaod_sem3_pr4\\siaod_sem3_pr4.cpp\"",
+    "file": "C:\\My_projects\\siaod_sem3_pr4\\siaod_sem3_pr4\\siaod_sem3_pr4.cpp"
+  }
+]

@@ -1,0 +1,4 @@
+﻿  TreeFile.cpp
+C:\My_projects\siaod_sem3_pr5_part2\siaod_sem3_pr5_part2\TreeFile.cpp(25,27): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\My_projects\siaod_sem3_pr5_part2\siaod_sem3_pr5_part2\TreeFile.cpp(38,41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  siaod_sem3_pr5_part2.vcxproj -> C:\My_projects\siaod_sem3_pr5_part2\x64\Debug\siaod_sem3_pr5_part2.exe

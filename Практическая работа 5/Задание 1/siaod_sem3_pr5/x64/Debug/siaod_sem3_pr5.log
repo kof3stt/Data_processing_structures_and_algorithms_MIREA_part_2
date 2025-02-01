@@ -1,0 +1,3 @@
+﻿  BinaryTree.cpp
+C:\My_projects\siaod_sem3_pr5\siaod_sem3_pr5\BinaryTree.cpp(44): warning C4172: возвращение адреса локальной или временной переменной : res
+  siaod_sem3_pr5.vcxproj -> C:\My_projects\siaod_sem3_pr5\x64\Debug\siaod_sem3_pr5.exe

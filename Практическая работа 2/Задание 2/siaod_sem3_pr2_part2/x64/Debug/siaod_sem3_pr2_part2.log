@@ -1,0 +1,4 @@
+﻿  Student.cpp
+C:\My_projects\siaod_sem3_pr2_part2\siaod_sem3_pr2_part2\Student.cpp(22,14): warning C4101: symbol: неиспользованная локальная переменная
+C:\My_projects\siaod_sem3_pr2_part2\siaod_sem3_pr2_part2\Student.cpp(118,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  siaod_sem3_pr2_part2.vcxproj -> C:\My_projects\siaod_sem3_pr2_part2\x64\Debug\siaod_sem3_pr2_part2.exe
